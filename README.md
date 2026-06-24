@@ -53,8 +53,6 @@ A collection of projects, lessons learned, and the occasional rabbit hole that t
 
 📋 Project Coordination
 
-⚙️ Workflow Optimization
-
 📝 Documentation Systems
 
 ---
