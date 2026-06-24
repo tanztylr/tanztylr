@@ -1,5 +1,7 @@
 # Welcome to TanzaOS 👋
 
+Building systems, organizing ideas, and turning "this would be cool" into deployed projects.
+
 **Current Status**
 
 🟢 Building systems
