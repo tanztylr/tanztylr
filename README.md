@@ -85,8 +85,6 @@ A collection of projects, lessons learned, and the occasional rabbit hole that t
 
 ## Connect
 
-## Connect
-
 💼 [LinkedIn](https://www.linkedin.com/in/tanzataylor/)
 
 🌐 [Portfolio](https://tanza-portfolio.vercel.app)
