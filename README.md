@@ -61,7 +61,7 @@ A collection of projects, lessons learned, and the occasional rabbit hole that t
 
 ## Featured Repositories
 
-🌐 Tanza Portfolio — Personal portfolio and professional showcase
+🌐 [Tanza Portfolio](https://github.com/tanztylr/Tanza-Portfolio) — Personal portfolio and professional showcase
 
 🚀 AuraCare Lite — Accessibility-focused healthcare web application
 
