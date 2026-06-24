@@ -85,8 +85,10 @@ A collection of projects, lessons learned, and the occasional rabbit hole that t
 
 ## Connect
 
-💼 LinkedIn
+## Connect
 
-🌐 Portfolio Website
+💼 [LinkedIn](https://www.linkedin.com/in/tanzataylor/)
 
-📧 Email
+🌐 [Portfolio](https://tanza-portfolio.vercel.app)
+
+📧 [Email Me](mailto:tanzaneya.taylor1@gmail.com)
