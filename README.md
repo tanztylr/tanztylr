@@ -2,7 +2,7 @@
 
 Building systems, organizing ideas, and turning "this would be cool" into deployed projects.
 
-*## Current Status
+#Current Status
 
 Systems Building
 ██████████ 100%
