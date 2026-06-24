@@ -1,8 +1,8 @@
 # Welcome to TanzaOS 👋
 
-Building systems, organizing ideas, and turning "this would be cool" into deployed projects.
+Building systems and turning "this would be cool" into deployed projects.
 
-## TanzaOS Status
+## Status Tracker
 
 ![Systems](https://img.shields.io/badge/Systems-Building-success?style=for-the-badge)
 
