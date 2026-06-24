@@ -2,20 +2,15 @@
 
 Building systems, organizing ideas, and turning "this would be cool" into deployed projects.
 
-#Current Status
+## TanzaOS Status
 
-Systems Building
-██████████ 100%
+![Systems](https://img.shields.io/badge/Systems-Building-success?style=for-the-badge)
 
-Cloud Learning
-███████░░░ 70%
+![Cloud](https://img.shields.io/badge/Cloud-Learning-blue?style=for-the-badge)
 
-Project Management
-██████████ 100%
+![Projects](https://img.shields.io/badge/Projects-Active-orange?style=for-the-badge)
 
-Project Idea Containment
-██░░░░░░░░ 20%
----
+![Ideas](https://img.shields.io/badge/Ideas-Under%20Investigation-yellow?style=for-the-badge)
 
 ## Active Projects
 
