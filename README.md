@@ -2,16 +2,19 @@
 
 Building systems, organizing ideas, and turning "this would be cool" into deployed projects.
 
-**Current Status**
+*## Current Status
 
-🟢 Building systems
+Systems Building
+██████████ 100%
 
-🟢 Learning cloud
+Cloud Learning
+███████░░░ 70%
 
-🟢 Managing projects
+Project Management
+██████████ 100%
 
-🟡 Negotiating with the next project idea
-
+Project Idea Containment
+██░░░░░░░░ 20%
 ---
 
 ## Active Projects
