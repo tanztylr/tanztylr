@@ -63,9 +63,9 @@ A collection of projects, lessons learned, and the occasional rabbit hole that t
 
 🌐 [Tanza Portfolio](https://github.com/tanztylr/Tanza-Portfolio) — Personal portfolio and professional showcase
 
-🚀 AuraCare Lite — Accessibility-focused healthcare web application
+🚀 [AuraCare Lite](https://github.com/tanztylr/auracare-lite-) — Accessibility-focused healthcare web application
 
-🎮 TheSimFile — Sims 4 storytelling and household generation tool
+🎮 [TheSimFile](https://github.com/tanztylr/TheSimFile) — Sims 4 storytelling and household generation tool
 
 ---
 
